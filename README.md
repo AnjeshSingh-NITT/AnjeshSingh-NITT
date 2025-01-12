@@ -1,5 +1,5 @@
 ## Hi there!! I’m Anjesh Singh👋
-EEE student @NIT-Trichy | passionate about Competitive Programming | Development Projects, and Hackathons
+EEE student @NIT-Trichy | Spider Algos - Spider R&D | passionate about Competitive Programming | Development Projects, and Hackathons
 
 - 🔭 Currently working on: Data Structures and Algorithms, Competitive Programming, Web Development
 - 🌱 Currently learning: Machine Learning, Full-Stack Web Dev (MERN stack), and problem-solving techniques
