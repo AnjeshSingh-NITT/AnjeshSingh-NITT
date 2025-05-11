@@ -1,4 +1,7 @@
 ## Hi there!! I’m Anjesh Singh👋
+
+![](https://komarev.com/ghpvc/?username=AnjeshSingh-NITT)
+
 EEE student @NIT-Trichy | Spider Algos - Spider R&D | passionate about Competitive Programming | Development Projects, and Hackathons
 
 - 🔭 Currently working on: Data Structures and Algorithms, Competitive Programming, Web Development
