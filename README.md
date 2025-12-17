@@ -9,7 +9,8 @@
 ## About Me
 
 - Electrical and Electronics Engineering student at NIT Tiruchirappalli  
-- Member of Spider Algos — Spider R&D  
+- Algorithm developer at Spider Algos — Spider R&D, NIT Trichy
+- DevOps engineer at Currents, NIT Trichy
 - Competitive Programmer (Codeforces 1536, CodeChef 1630)  
 - Working on full-stack web development and machine learning
 
